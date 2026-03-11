@@ -1,5 +1,6 @@
 import os
 import sys
+import platform
 from flask import Flask
 from flask_cors import CORS
 from datetime import datetime
